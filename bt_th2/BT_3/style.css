@@ -1,0 +1,45 @@
+ul {
+    list-style: none;
+}
+.info
+{
+    display: grid;
+    grid-template-columns: 300px auto;
+    grid-column: 100px  ;
+    column-gap: 100px;
+    row-gap: 20px;
+}
+input{
+    height: 35px;
+}
+.content_btn{
+   
+}
+.content{
+    
+    display: grid;
+    width: 73,5%;
+    margin-left: 400px;
+    margin-top: 20px;
+    
+}
+.btn{
+    margin-top: 20px;
+    padding: 10px;
+    border: 0;
+    background-color: aquamarine;
+    color: white;
+    
+    width: 100px;
+    cursor: pointer;
+    font-size: 10px;
+}
+.title_title
+{
+    color: darkmagenta;
+    font-size: 20px;
+}
+h3{
+    color: blue;
+    
+}
